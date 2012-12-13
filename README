@@ -1,0 +1,7 @@
+
+To build jas-android on android sdk:
+
+  cp ../jas-2.4/jas.jar libs/
+  cp ../lib/log4j.jar libs/
+  ant release
+

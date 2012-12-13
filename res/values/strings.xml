@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="instructions">In the terminal emulator:\n  dalvikvm -classpath /data/app/org.python.util-1.apk:/data/app/edu.jas.android-1.apk org.python.util.jython [script.py]\n\nSoftware needed:\n  jackpal.androidterm\n  org.python.util"</string>
+    <string name="app_name">JAS</string>
+</resources>

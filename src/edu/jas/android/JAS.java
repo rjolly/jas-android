@@ -1,0 +1,15 @@
+package edu.jas.android;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+public class JAS extends Activity
+{
+    /** Called when the activity is first created. */
+    @Override
+    public void onCreate(Bundle savedInstanceState)
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+    }
+}
